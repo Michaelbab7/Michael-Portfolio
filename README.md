@@ -19,7 +19,7 @@ Codecademy
 
 
 
-# [Sales Analysis](https://github.com/Michaelbab7/Michael-Portfolio/blob/main/Sales%20Analysis.ipynb)
+# [Sales Analysis](https://github.com/Michaelbab7/Projects/blob/main/Sales%20Analysis.ipynb)
 ## Set of real world data analyst tasks completed using the Python Pandas library.
 #### Cleaning the data:
 * Drop NaN values from DataFrame
