@@ -42,7 +42,7 @@ Codecademy
 * Plotting bar charts and lines graphs to visualize our results
 * Labeling our graphs
 
-![](https://github.com/Michaelbab7/Images/blob/main/sales%20image%201.png)
+![](imagess/sales%20image%201.png)
 
 
 
