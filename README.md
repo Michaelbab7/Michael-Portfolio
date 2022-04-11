@@ -48,3 +48,36 @@ Codecademy
 
 ### Data Source:
 KeithGalli
+
+
+
+
+
+# [US Medical Insurance Costs Analysis](https://github.com/Michaelbab7/Projects/blob/main/us-medical-insurance-costs-project.ipynb)
+## Set of real world US medical insurance costs across the country task complete using python and mathplotlib library
+#### Load and setting the data so it will be easier to manipulate it.
+* Load the data into a dictionary
+* Convert every key into a list
+* Change the "Sex" and "Smoker" into a binary list, change the "BMI" list into a float, and the "Number of children" into an int.
+
+#### Creating an innit class that contains attributes and functions that ill use more than once.
+* Create each list as an attribute.
+* Create 3 functions that ill use reputedly, that each will return the average, median or the mode of a factor.
+
+#### Explore 5 question that relate to our data.
+* What is the averge, median and mode of the insurance costs?
+* What factor affect the most on the price of the insurance cost?
+* Will your sex impact on the costs of the insurance?
+* What factor affect the most on the price for males? And what factor affect the most for females?
+* There is factors that affect the price that not appear in the file?
+
+#### In order to answer these questions i used many different Python & matplotlib methods. They include:
+* Using for loops in order to iterate through lists.
+* Using if statment to separate between relevant data by condition.
+* Plotting bar charts and lines graphs to visualize our results
+* Labeling our graphs
+
+![](imagess/medical_project_photo.png)
+
+### Data Source:
+Codecademy
