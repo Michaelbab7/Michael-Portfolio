@@ -1,6 +1,32 @@
 # Michael-Portfolio
 Data analysis portfolio
 
+# [Spotify Top Streamd Songs of 2023 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVjN2NjMjctMzAyZC00ZTE1LWE2N2MtY2M2MDZmZmFjYjVmIiwidCI6ImMwZjhjZmRlLWY4YTUtNGFhZi1iODdjLWYyZjFlZWRiMmMzZCIsImMiOjF9)
+## An interactive dashboard showcasing the top songs on Spotify in 2023 along with accompanying statistics:
+#### Data Enrichment:
+* Connect to Spotify Developer and get an API token.
+* Load the data using Python, Pandas.
+* Create an API function that return the Album Cover by Track_Id.
+* Create a function to iterate through the dataset and retrieve Track_ID based on Track_name and Artist_name.
+* Use all functions on my dataset and update it.
+
+#### PowerPoint:
+* Designd a background for the Dashboard.
+
+#### Power BI:
+* Load the dataset into Power BI.
+* Establish a Date column and a Date Table, enabling an active relationship between them.
+* Generate Measures for visualizations.
+* Employ HTML code within the HTML Visual to exhibit Album Cover Pictures with rounded corners.
+* Apply Deneb script for advanced visualizations.
+
+### Data Source:
+Kaggle
+
+
+
+
+
 # [Jeopardy-Analysis](https://github.com/Michaelbab7/Jeopardy-Analsis/blob/main/Jeoprdy%20project.ipynb)
 ## An analysis of  dataset of the game show Jeopardy:
 * Loading the dataset via pandas library. 
