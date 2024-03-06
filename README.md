@@ -20,6 +20,9 @@ Data analysis portfolio
 * Employ HTML code within the HTML Visual to exhibit Album Cover Pictures with rounded corners.
 * Apply Deneb script for advanced visualizations.
 
+
+![](imagess/spotify_Dashboardpic.png)
+
 ### Data Source:
 Kaggle
 
